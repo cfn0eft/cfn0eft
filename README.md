@@ -17,7 +17,7 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=c" width="100" height="100" alt="py" />
+<img src="https://skillicons.dev/icons?i=py" width="100" height="100" alt="py" />
 <br><strong>Flutter</strong>
 </td>
 <td width="400" align="left">
