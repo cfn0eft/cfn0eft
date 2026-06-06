@@ -67,6 +67,14 @@ Salesforce を中心に開発している、日本のエンジニアです ☕
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cfn0eft&custom_title=cfn0eft%20の%20GitHub%20アクティビティ&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
 
+## 📈 **詳細メトリクス**
+
+<!-- 有効化手順:(1) 個人アクセストークンを作成 (2) リポジトリに METRICS_TOKEN として登録 (3) Actions で "Metrics" を1回実行 → github-metrics.svg 生成後、この行と末尾の閉じタグを削除すると表示されます
+<div align="center">
+  <img src="./github-metrics.svg" alt="cfn0eft の詳細メトリクス" />
+</div>
+-->
+
 ## 🏆 **トロフィー**
 
 <div align="center">
@@ -80,6 +88,16 @@ Salesforce を中心に開発している、日本のエンジニアです ☕
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cfn0eft/cfn0eft/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cfn0eft/cfn0eft/output/github-contribution-grid-snake.svg" />
     <img alt="コントリビューションを食べるヘビ" src="https://raw.githubusercontent.com/cfn0eft/cfn0eft/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+## 🏙️ **3D コントリビューション**
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season.svg" />
+    <img alt="3D コントリビューションカレンダー" src="./profile-3d-contrib/profile-night-rainbow.svg" />
   </picture>
 </div>
 
