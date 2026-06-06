@@ -60,7 +60,7 @@ Salesforce を中心に開発している、日本のエンジニアです ☕
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cfn0eft&theme=transparent&border_radius=10&starting_year=2020&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="連続コントリビューション" />
+  <img src="https://streak-stats.demolab.com/?user=cfn0eft&theme=transparent&border_radius=10&starting_year=2020&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="連続コントリビューション" />
 </div>
 
 <div align="center">
@@ -72,6 +72,18 @@ Salesforce を中心に開発している、日本のエンジニアです ☕
 <!-- 有効化手順:(1) 個人アクセストークンを作成 (2) リポジトリに METRICS_TOKEN として登録 (3) Actions で "Metrics" を1回実行 → github-metrics.svg 生成後、この行と末尾の閉じタグを削除すると表示されます
 <div align="center">
   <img src="./github-metrics.svg" alt="cfn0eft の詳細メトリクス" />
+</div>
+-->
+
+## 🃏 **サマリーカード**
+
+<!-- 有効化:Actions で "GitHub-Profile-Summary-Cards" を1回実行 → profile-summary-card-output/ が生成されたら、この行と末尾の閉じタグを削除してください
+<div align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="統計" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="言語別リポジトリ" />
+</div>
+<div align="center">
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="最も使う言語" />
 </div>
 -->
 

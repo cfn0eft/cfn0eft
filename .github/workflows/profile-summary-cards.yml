@@ -1,0 +1,28 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  # 毎日 02:00 JST に自動更新
+  schedule:
+    - cron: "0 17 * * *"
+  # 手動実行(初回はここから1回実行してください)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # 既定の GITHUB_TOKEN で動作(公開データのみ)。
+          # カードが欠ける場合は METRICS_TOKEN に差し替えてください。
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 9
+          AUTO_PUSH: true
